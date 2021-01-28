@@ -1,0 +1,1375 @@
+1611755672142	geckodriver	INFO	Listening on 127.0.0.1:53746
+1611755675189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileSw6Gcs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755680975	Marionette	INFO	Listening on port 53754
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755681105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611755681113	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"180.179.98.22:3128","httpProxy":"180.179.98.22:3128","sslProxy":"180.179.98.22:3128"}
+1611755681137	Marionette	ERROR	[15] No reply from Marionette:Register
+1611755719054	Marionette	INFO	Stopped listening on port 53754
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611755722492	geckodriver	INFO	Listening on 127.0.0.1:53801
+1611755725539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilenaT0Oq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755731342	Marionette	INFO	Listening on port 53809
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755731879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611755731886	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.139:80","httpProxy":"136.233.215.139:80","sslProxy":"136.233.215.139:80"}
+1611755731912	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611755733946	Marionette	INFO	Stopped listening on port 53809
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611755737975	geckodriver	INFO	Listening on 127.0.0.1:53874
+1611755741022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileOrhnSW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755746627	Marionette	INFO	Listening on port 53882
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755746904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611755746910	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.105:80","httpProxy":"14.97.2.105:80","sslProxy":"14.97.2.105:80"}
+1611755746934	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611755761238	Marionette	INFO	Stopped listening on port 53882
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611755763790	geckodriver	INFO	Listening on 127.0.0.1:53937
+1611755766836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilehMO5PD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755772675	Marionette	INFO	Listening on port 53945
+1611755772734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611755772742	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.240.161.109:6666","httpProxy":"103.240.161.109:6666","sslProxy":"103.240.161.109:6666"}
+1611755772769	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755938062	Marionette	INFO	Stopped listening on port 53945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611755941697	geckodriver	INFO	Listening on 127.0.0.1:54083
+1611755944744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilelabSOX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755950428	Marionette	INFO	Listening on port 54091
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755950623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611755950632	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.106:80","httpProxy":"14.97.2.106:80","sslProxy":"14.97.2.106:80"}
+1611755950660	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611755957950	Marionette	INFO	Stopped listening on port 54091
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611755960580	geckodriver	INFO	Listening on 127.0.0.1:54152
+1611755963642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilefqbOTT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611755969435	Marionette	INFO	Listening on port 54160
+1611755969540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611755969548	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"210.212.253.226:8080","httpProxy":"210.212.253.226:8080","sslProxy":"210.212.253.226:8080"}
+1611755969574	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611756269688	Marionette	INFO	Stopped listening on port 54160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611756271201	geckodriver	INFO	Listening on 127.0.0.1:54218
+1611756274263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileBVumAC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611756280477	Marionette	INFO	Listening on port 54226
+1611756280619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611756280627	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.139.57.195:23500","httpProxy":"14.139.57.195:23500","sslProxy":"14.139.57.195:23500"}
+1611756280656	Marionette	ERROR	[15] No reply from Marionette:Register
+1611756525625	Marionette	INFO	Stopped listening on port 54226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611756527314	geckodriver	INFO	Listening on 127.0.0.1:54374
+1611756530392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileHGW7L3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611756536630	Marionette	INFO	Listening on port 54382
+1611756536730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611756536736	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"117.252.222.29:23500","httpProxy":"117.252.222.29:23500","sslProxy":"117.252.222.29:23500"}
+1611756536763	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611756637408	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1611759685185	Marionette	INFO	Stopped listening on port 54382
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611759686930	geckodriver	INFO	Listening on 127.0.0.1:59098
+1611759689977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile7Wj6p4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611759695521	Marionette	INFO	Listening on port 59106
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611759695860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611759695866	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.240.77.98:30093","httpProxy":"103.240.77.98:30093","sslProxy":"103.240.77.98:30093"}
+1611759695890	Marionette	ERROR	[15] No reply from Marionette:Register
+1611759771051	Marionette	INFO	Stopped listening on port 59106
+[Child 6420, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 6420, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611759773999	geckodriver	INFO	Listening on 127.0.0.1:59212
+1611759777061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileqBILcp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611759782672	Marionette	INFO	Listening on port 59220
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611759782907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611759782914	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"122.15.211.124:80","httpProxy":"122.15.211.124:80","sslProxy":"122.15.211.124:80"}
+1611759782945	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611759794466	Marionette	INFO	Stopped listening on port 59220
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611759798005	geckodriver	INFO	Listening on 127.0.0.1:59277
+1611759801052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileZzNcED"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611759806533	Marionette	INFO	Listening on port 59285
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611759806926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611759806932	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"152.67.24.187:80","httpProxy":"152.67.24.187:80","sslProxy":"152.67.24.187:80"}
+1611759806957	Marionette	ERROR	[15] No reply from Marionette:Register
+1611759813876	Marionette	INFO	Stopped listening on port 59285
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611759818597	geckodriver	INFO	Listening on 127.0.0.1:59336
+1611759821613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileuCMQp8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611759827103	Marionette	INFO	Listening on port 59344
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611759827462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611759827469	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.60.187.129:57187","httpProxy":"103.60.187.129:57187","sslProxy":"103.60.187.129:57187"}
+1611759827490	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760067250	Marionette	INFO	Stopped listening on port 59344
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760069581	geckodriver	INFO	Listening on 127.0.0.1:59478
+1611760072628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileqz9uyn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760078542	Marionette	INFO	Listening on port 59486
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760078998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760079004	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"139.59.1.14:8080","httpProxy":"139.59.1.14:8080","sslProxy":"139.59.1.14:8080"}
+1611760079030	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760079357	Marionette	INFO	Stopped listening on port 59486
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760082680	geckodriver	INFO	Listening on 127.0.0.1:59525
+1611760085711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileLMwkWm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760091330	Marionette	INFO	Listening on port 59533
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760091600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760091606	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"150.129.148.99:35101","httpProxy":"150.129.148.99:35101","sslProxy":"150.129.148.99:35101"}
+1611760091630	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760183434	Marionette	INFO	Stopped listening on port 59533
+[Child 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 12652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760185471	geckodriver	INFO	Listening on 127.0.0.1:59652
+1611760188503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilerYAdYO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760194175	Marionette	INFO	Listening on port 59660
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760194366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760194374	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.87.170.103:36380","httpProxy":"103.87.170.103:36380","sslProxy":"103.87.170.103:36380"}
+1611760194396	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760228048	Marionette	INFO	Stopped listening on port 59660
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760231503	geckodriver	INFO	Listening on 127.0.0.1:59740
+1611760234508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilevAoeV3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760240238	Marionette	INFO	Listening on port 59748
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760240402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760240409	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"150.129.55.121:35101","httpProxy":"150.129.55.121:35101","sslProxy":"150.129.55.121:35101"}
+1611760240438	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760282954	Marionette	INFO	Stopped listening on port 59748
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760286356	geckodriver	INFO	Listening on 127.0.0.1:59806
+1611760289392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilegs70aZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760294989	Marionette	INFO	Listening on port 59814
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760295259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760295267	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"122.15.211.125:80","httpProxy":"122.15.211.125:80","sslProxy":"122.15.211.125:80"}
+1611760295293	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611760304086	Marionette	INFO	Stopped listening on port 59814
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760308445	geckodriver	INFO	Listening on 127.0.0.1:59881
+1611760311492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileM2nILR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760317310	Marionette	INFO	Listening on port 59889
+1611760317432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760317440	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.137:80","httpProxy":"136.233.215.137:80","sslProxy":"136.233.215.137:80"}
+1611760317466	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611760319181	Marionette	INFO	Stopped listening on port 59889
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760321228	geckodriver	INFO	Listening on 127.0.0.1:59961
+1611760324291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileyTFl6j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760329990	Marionette	INFO	Listening on port 59969
+1611760330159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760330165	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"45.112.57.230:61222","httpProxy":"45.112.57.230:61222","sslProxy":"45.112.57.230:61222"}
+1611760330187	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760535661	Marionette	INFO	Stopped listening on port 59969
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760537859	geckodriver	INFO	Listening on 127.0.0.1:60124
+1611760540890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile1uOrhy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760546596	Marionette	INFO	Listening on port 60132
+1611760546755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760546763	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.87.168.191:51489","httpProxy":"103.87.168.191:51489","sslProxy":"103.87.168.191:51489"}
+1611760546787	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760614351	Marionette	INFO	Stopped listening on port 60132
+[Child 10324, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760616545	geckodriver	INFO	Listening on 127.0.0.1:60241
+1611760619592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilejlDdy8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760625218	Marionette	INFO	Listening on port 60249
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760625467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760625474	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"49.204.79.81:80","httpProxy":"49.204.79.81:80","sslProxy":"49.204.79.81:80"}
+1611760625500	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611760648926	Marionette	INFO	Stopped listening on port 60249
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760650854	geckodriver	INFO	Listening on 127.0.0.1:60298
+1611760653886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile8FFq1a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760659599	Marionette	INFO	Listening on port 60306
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760659841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760659848	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"159.65.154.238:80","httpProxy":"159.65.154.238:80","sslProxy":"159.65.154.238:80"}
+1611760659874	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760677064	Marionette	INFO	Stopped listening on port 60306
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760680358	geckodriver	INFO	Listening on 127.0.0.1:60347
+1611760683389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilehRRc2y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760688984	Marionette	INFO	Listening on port 60355
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760689244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760689252	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.25.153.5:83","httpProxy":"103.25.153.5:83","sslProxy":"103.25.153.5:83"}
+1611760689275	Marionette	ERROR	[15] No reply from Marionette:Register
+1611760731897	Marionette	INFO	Stopped listening on port 60355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760735852	geckodriver	INFO	Listening on 127.0.0.1:60416
+1611760738899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileW6w8pU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760744681	Marionette	INFO	Listening on port 60424
+1611760744788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760744796	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.47.175.9:83","httpProxy":"103.47.175.9:83","sslProxy":"103.47.175.9:83"}
+1611760744824	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760926159	Marionette	INFO	Stopped listening on port 60424
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611760929127	geckodriver	INFO	Listening on 127.0.0.1:60558
+1611760932158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileghSRju"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611760937915	Marionette	INFO	Listening on port 60566
+1611760938053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611760938060	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"27.116.51.119:8080","httpProxy":"27.116.51.119:8080","sslProxy":"27.116.51.119:8080"}
+1611760938114	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761059693	Marionette	INFO	Stopped listening on port 60566
+[Child 12516, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761065428	geckodriver	INFO	Listening on 127.0.0.1:60706
+1611761068459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileBQ1t8a"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761073935	Marionette	INFO	Listening on port 60714
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761074359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761074366	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.46.233.230:81","httpProxy":"103.46.233.230:81","sslProxy":"103.46.233.230:81"}
+1611761074390	Marionette	ERROR	[15] No reply from Marionette:Register
+1611761323360	Marionette	INFO	Stopped listening on port 60714
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761324960	geckodriver	INFO	Listening on 127.0.0.1:60854
+1611761327991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile2DHiVW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761333773	Marionette	INFO	Listening on port 60862
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761333924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761333932	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"106.0.39.81:82","httpProxy":"106.0.39.81:82","sslProxy":"106.0.39.81:82"}
+1611761333957	Marionette	ERROR	[15] No reply from Marionette:Register
+1611761362960	Marionette	INFO	Stopped listening on port 60862
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761366227	geckodriver	INFO	Listening on 127.0.0.1:60917
+1611761369258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileg00Kjk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761374913	Marionette	INFO	Listening on port 60925
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761375143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761375150	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"150.129.148.99:35101","httpProxy":"150.129.148.99:35101","sslProxy":"150.129.148.99:35101"}
+1611761375179	Marionette	ERROR	[15] No reply from Marionette:Register
+1611761463210	Marionette	INFO	Stopped listening on port 60925
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761466342	geckodriver	INFO	Listening on 127.0.0.1:61040
+1611761469405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilemaR1un"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761475220	Marionette	INFO	Listening on port 61048
+1611761475299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761475305	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.87.170.103:36380","httpProxy":"103.87.170.103:36380","sslProxy":"103.87.170.103:36380"}
+1611761475330	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761535159	Marionette	INFO	Stopped listening on port 61048
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761537059	geckodriver	INFO	Listening on 127.0.0.1:61100
+1611761540090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilec0DQBj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761545778	Marionette	INFO	Listening on port 61108
+1611761545976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761545983	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.87.168.191:51489","httpProxy":"103.87.168.191:51489","sslProxy":"103.87.168.191:51489"}
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761546011	Marionette	ERROR	[15] No reply from Marionette:Register
+1611761609151	Marionette	INFO	Stopped listening on port 61108
+[Child 9904, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761612090	geckodriver	INFO	Listening on 127.0.0.1:61210
+1611761615121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileB619xl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761620972	Marionette	INFO	Listening on port 61220
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761621480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761621486	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.240.77.98:30093","httpProxy":"103.240.77.98:30093","sslProxy":"103.240.77.98:30093"}
+1611761621509	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611761653610	Marionette	INFO	Stopped listening on port 61220
+[Parent 6980, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761657565	geckodriver	INFO	Listening on 127.0.0.1:61285
+1611761660612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilecHq3ud"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761666433	Marionette	INFO	Listening on port 61293
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761666540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761666549	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"45.112.57.230:61222","httpProxy":"45.112.57.230:61222","sslProxy":"45.112.57.230:61222"}
+1611761666576	Marionette	ERROR	[15] No reply from Marionette:Register
+1611761883177	Marionette	INFO	Stopped listening on port 61293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761886222	geckodriver	INFO	Listening on 127.0.0.1:61438
+1611761889254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileYIOaDT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761894957	Marionette	INFO	Listening on port 61446
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761895179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761895186	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.241.227.107:6666","httpProxy":"103.241.227.107:6666","sslProxy":"103.241.227.107:6666"}
+1611761895215	Marionette	ERROR	[15] No reply from Marionette:Register
+1611761937782	Marionette	INFO	Stopped listening on port 61446
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611761940957	geckodriver	INFO	Listening on 127.0.0.1:61504
+1611761944019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofiledprxsQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761949759	Marionette	INFO	Listening on port 61512
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761949939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761949946	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"210.212.253.226:8080","httpProxy":"210.212.253.226:8080","sslProxy":"210.212.253.226:8080"}
+1611761949972	Marionette	ERROR	[15] No reply from Marionette:Register
+1611761951739	Marionette	INFO	Stopped listening on port 61512
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 8900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611761953857	geckodriver	INFO	Listening on 127.0.0.1:61551
+1611761956904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileanmR7K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761962590	Marionette	INFO	Listening on port 61559
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611761962802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611761962809	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.240.168.138:6666","httpProxy":"103.240.168.138:6666","sslProxy":"103.240.168.138:6666"}
+1611761962836	Marionette	ERROR	[15] No reply from Marionette:Register
+1611762172702	Marionette	INFO	Stopped listening on port 61559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762174419	geckodriver	INFO	Listening on 127.0.0.1:61735
+1611762177497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileVPeV5V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762183273	Marionette	INFO	Listening on port 61743
+1611762183363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611762183369	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"180.179.98.22:3128","httpProxy":"180.179.98.22:3128","sslProxy":"180.179.98.22:3128"}
+1611762183395	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762223639	Marionette	INFO	Stopped listening on port 61743
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 272, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762225557	geckodriver	INFO	Listening on 127.0.0.1:61785
+1611762228619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileKqY5bG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762234452	Marionette	INFO	Listening on port 61793
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762234960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611762234967	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.139:80","httpProxy":"136.233.215.139:80","sslProxy":"136.233.215.139:80"}
+1611762234987	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611762236727	Marionette	INFO	Stopped listening on port 61793
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 2360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762239525	geckodriver	INFO	Listening on 127.0.0.1:61854
+1611762242588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile1xwin9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762248401	Marionette	INFO	Listening on port 61862
+1611762248459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611762248467	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.105:80","httpProxy":"14.97.2.105:80","sslProxy":"14.97.2.105:80"}
+1611762248496	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611762251958	Marionette	INFO	Stopped listening on port 61862
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762253934	geckodriver	INFO	Listening on 127.0.0.1:61927
+1611762256980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilewFmgwB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762262778	Marionette	INFO	Listening on port 61935
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762262928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611762262936	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.240.161.109:6666","httpProxy":"103.240.161.109:6666","sslProxy":"103.240.161.109:6666"}
+1611762262959	Marionette	ERROR	[15] No reply from Marionette:Register
+1611762305515	Marionette	INFO	Stopped listening on port 61935
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762308518	geckodriver	INFO	Listening on 127.0.0.1:61991
+1611762311580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilexTCIwI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762317554	Marionette	INFO	Listening on port 61999
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762317942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611762317947	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.106:80","httpProxy":"14.97.2.106:80","sslProxy":"14.97.2.106:80"}
+1611762318025	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611762326080	Marionette	INFO	Stopped listening on port 61999
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611762329073	geckodriver	INFO	Listening on 127.0.0.1:62102
+1611762332116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileiIsc0f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762338148	Marionette	INFO	Listening on port 62110
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611762338669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611762338675	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"210.212.253.226:8080","httpProxy":"210.212.253.226:8080","sslProxy":"210.212.253.226:8080"}
+1611762338695	Marionette	ERROR	[15] No reply from Marionette:Register
+[Child 5716, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611762629911	Marionette	INFO	Stopped listening on port 62110
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611801542365	geckodriver	INFO	Listening on 127.0.0.1:53210
+1611801545411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileci8n82"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611801552099	Marionette	INFO	Listening on port 53218
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611801552397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611801552404	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"150.129.148.88:35101","httpProxy":"150.129.148.88:35101","sslProxy":"150.129.148.88:35101"}
+1611801552427	Marionette	ERROR	[15] No reply from Marionette:Register
+1611801638773	Marionette	INFO	Stopped listening on port 53218
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileLwCecN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611801614515	Marionette	INFO	Listening on port 53301
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611801614758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611801614766	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.139:80","httpProxy":"136.233.215.139:80","sslProxy":"136.233.215.139:80"}
+1611801614791	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611801616507	Marionette	INFO	Stopped listening on port 53301
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611801629914	geckodriver	INFO	Listening on 127.0.0.1:53391
+1611801632952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileH9EjlE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611801639084	Marionette	INFO	Listening on port 53403
+1611801639266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611801639275	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"139.59.1.14:8080","httpProxy":"139.59.1.14:8080","sslProxy":"139.59.1.14:8080"}
+1611801639300	Marionette	ERROR	[15] No reply from Marionette:Register
+1611801639585	Marionette	INFO	Stopped listening on port 53403
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611802184967	geckodriver	INFO	Listening on 127.0.0.1:53694
+1611802187999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile8h47kN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802191292	Marionette	INFO	Listening on port 53702
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802191743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611802191749	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"161.35.4.201:80","httpProxy":"161.35.4.201:80","sslProxy":"161.35.4.201:80"}
+1611802191774	Marionette	ERROR	[15] No reply from Marionette:Register
+1611802216860	Marionette	INFO	Stopped listening on port 53702
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611802220540	geckodriver	INFO	Listening on 127.0.0.1:53750
+1611802223587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilegiz7Q7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802227333	Marionette	INFO	Listening on port 53758
+1611802227808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611802227815	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"206.189.189.81:3128","httpProxy":"206.189.189.81:3128","sslProxy":"206.189.189.81:3128"}
+1611802227841	Marionette	ERROR	[15] No reply from Marionette:Register
+1611802229098	Marionette	INFO	Stopped listening on port 53758
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611802241075	geckodriver	INFO	Listening on 127.0.0.1:53801
+1611802244122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileC6NAwO"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802247617	Marionette	INFO	Listening on port 53809
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Listening on 127.0.0.1:53918
+1611802333900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofiledd67y2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802337475	Marionette	INFO	Listening on port 53926
+1611802337626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611802337634	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"161.35.4.201:80","httpProxy":"161.35.4.201:80","sslProxy":"161.35.4.201:80"}
+1611802337661	Marionette	ERROR	[15] No reply from Marionette:Register
+1611802386692	Marionette	INFO	Stopped listening on port 53926
+1611802391197	geckodriver	INFO	Listening on 127.0.0.1:53970
+1611802394230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileJy2l7N"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802398792	Marionette	INFO	Listening on port 53978
+1611802399124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611802399135	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"206.189.189.81:3128","httpProxy":"206.189.189.81:3128","sslProxy":"206.189.189.81:3128"}
+1611802399167	Marionette	ERROR	[15] No reply from Marionette:Register
+1611802607360	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilePkhpGV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802888195	Marionette	INFO	Listening on port 54251
+1611802888548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611802888553	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"161.202.226.194:80","httpProxy":"161.202.226.194:80","sslProxy":"161.202.226.194:80"}
+1611802888572	Marionette	ERROR	[15] No reply from Marionette:Register
+1611802889089	Marionette	INFO	Stopped listening on port 54251
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611802891027	geckodriver	INFO	Listening on 127.0.0.1:54284
+1611802894041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileBxUgsU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611802897446	Marionette	INFO	Listening on port 54292
+1611802897748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611802897754	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"178.20.137.178:43980","httpProxy":"178.20.137.178:43980","sslProxy":"178.20.137.178:43980"}
+1611802897778	Marionette	ERROR	[15] No reply from Marionette:Register
+1611803048077	Marionette	INFO	Stopped listening on port 54292
+[Child 6396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611804797339	geckodriver	INFO	Listening on 127.0.0.1:57938
+1611804800379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofiler9frNw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611804803838	Marionette	INFO	Listening on port 57946
+1611804804113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611804804118	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"150.129.55.121:35101","httpProxy":"150.129.55.121:35101","sslProxy":"150.129.55.121:35101"}
+1611804804142	Marionette	ERROR	[15] No reply from Marionette:Register
+1611804846633	Marionette	INFO	Stopped listening on port 57946
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611804848628	geckodriver	INFO	Listening on 127.0.0.1:57994
+1611804851666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilemhwAUI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611804855106	Marionette	INFO	Listening on port 58002
+1611804855386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611804855392	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.106:80","httpProxy":"14.97.2.106:80","sslProxy":"14.97.2.106:80"}
+1611804855411	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611804856509	Marionette	INFO	Stopped listening on port 58002
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 13588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611804858437	geckodriver	INFO	Listening on 127.0.0.1:58056
+1611804861476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilemRpfop"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611804864729	Marionette	INFO	Listening on port 58064
+1611804865193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611804865200	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"122.15.211.124:80","httpProxy":"122.15.211.124:80","sslProxy":"122.15.211.124:80"}
+1611804865224	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611804871774	Marionette	INFO	Stopped listening on port 58064
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 3608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611804873682	geckodriver	INFO	Listening on 127.0.0.1:58135
+1611804876705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileZDCKsl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611804880171	Marionette	INFO	Listening on port 58143
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611804880429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611804880437	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"122.15.211.125:80","httpProxy":"122.15.211.125:80","sslProxy":"122.15.211.125:80"}
+1611804880459	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611804887093	Marionette	INFO	Stopped listening on port 58143
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611804890268	geckodriver	INFO	Listening on 127.0.0.1:58211
+1611804893291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileecOJJU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611804896693	Marionette	INFO	Listening on port 58219
+1611804897013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611804897017	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"152.67.24.187:80","httpProxy":"152.67.24.187:80","sslProxy":"152.67.24.187:80"}
+1611804897034	Marionette	ERROR	[15] No reply from Marionette:Register
+1611804921351	Marionette	INFO	Stopped listening on port 58219
+1611804925858	geckodriver	INFO	Listening on 127.0.0.1:58266
+1611804928882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilegqAy7Z"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611804932205	Marionette	INFO	Listening on port 58274
+1611804932592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611804932601	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"49.204.79.81:80","httpProxy":"49.204.79.81:80","sslProxy":"49.204.79.81:80"}
+1611804932624	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611804933846	Marionette	INFO	Stopped listening on port 58274
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611804935621	geckodriver	INFO	Listening on 127.0.0.1:58340
+1611804938645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileWFFq7I"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611804942182	Marionette	INFO	Listening on port 58348
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Exiting due to channel error.
+Exiting due to channel error.
+11805032299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileBxXLrA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611805036000	Marionette	INFO	Listening on port 58473
+1611805036520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611805036525	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.250.153.242:31382","httpProxy":"103.250.153.242:31382","sslProxy":"103.250.153.242:31382"}
+1611805036548	Marionette	ERROR	[15] No reply from Marionette:Register
+1611805227467	Marionette	INFO	Stopped listening on port 58473
+[Child 7804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 7804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611805231727	geckodriver	INFO	Listening on 127.0.0.1:58592
+1611805234751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileSrQkly"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611805238078	Marionette	INFO	Listening on port 58600
+1611805238464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611805238472	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.250.166.4:6666","httpProxy":"103.250.166.4:6666","sslProxy":"103.250.166.4:6666"}
+1611805238494	Marionette	ERROR	[15] No reply from Marionette:Register
+1611805281039	Marionette	INFO	Stopped listening on port 58600
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611805283058	geckodriver	INFO	Listening on 127.0.0.1:58649
+1611805286089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile1FdGEE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611805289482	Marionette	INFO	Listening on port 58657
+1611805289815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611805289821	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.252.117.100:8080","httpProxy":"103.252.117.100:8080","sslProxy":"103.252.117.100:8080"}
+1611805289847	Marionette	ERROR	[15] No reply from Marionette:Register
+1611805441823	Marionette	INFO	Stopped listening on port 58657
+1611805799325	geckodriver	INFO	Listening on 127.0.0.1:58856
+1611805802333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilekxoazf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611805805791	Marionette	INFO	Listening on port 58866
+1611805806049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611805806056	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.98.206.98:8080","httpProxy":"14.98.206.98:8080","sslProxy":"14.98.206.98:8080"}
+1611805806080	Marionette	ERROR	[15] No reply from Marionette:Register
+1611805936550	Marionette	INFO	Stopped listening on port 58866
+[Child 3164, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 3164, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611805940236	geckodriver	INFO	Listening on 127.0.0.1:58990
+1611805943292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofiledMwd7y"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611805946754	Marionette	INFO	Listening on port 58998
+1611805946980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611805946986	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"150.129.55.121:35101","httpProxy":"150.129.55.121:35101","sslProxy":"150.129.55.121:35101"}
+1611805947010	Marionette	ERROR	[15] No reply from Marionette:Register
+1611805965450	Marionette	INFO	Stopped listening on port 58998
+1611805968198	geckodriver	INFO	Listening on 127.0.0.1:59045
+1611805971238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileUazFWA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611805974635	Marionette	INFO	Listening on port 59053
+1611805974923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611805974930	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.125.130.94:8080","httpProxy":"103.125.130.94:8080","sslProxy":"103.125.130.94:8080"}
+1611805974956	Marionette	ERROR	[15] No reply from Marionette:Register
+1611806070137	Marionette	INFO	Stopped listening on port 59053
+[Child 7672, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 7672, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1611806072843	geckodriver	INFO	Listening on 127.0.0.1:59166
+1611806075874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileee91E6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806079329	Marionette	INFO	Listening on port 59174
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806079558	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806079564	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.106:80","httpProxy":"14.97.2.106:80","sslProxy":"14.97.2.106:80"}
+1611806079590	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806083608	Marionette	INFO	Stopped listening on port 59174
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806085531	geckodriver	INFO	Listening on 127.0.0.1:59237
+1611806088559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileB4OGxi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806091827	Marionette	INFO	Listening on port 59245
+1611806092256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806092263	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"122.15.211.125:80","httpProxy":"122.15.211.125:80","sslProxy":"122.15.211.125:80"}
+1611806092288	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806104639	Marionette	INFO	Stopped listening on port 59245
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806115130	geckodriver	INFO	Listening on 127.0.0.1:59330
+1611806118169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilebtyVXx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806121497	Marionette	INFO	Listening on port 59338
+1611806121858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806121864	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"49.204.79.81:80","httpProxy":"49.204.79.81:80","sslProxy":"49.204.79.81:80"}
+1611806121890	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806122906	Marionette	INFO	Stopped listening on port 59338
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 9988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611806124804	geckodriver	INFO	Listening on 127.0.0.1:59398
+1611806127843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileA8hnWa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806131230	Marionette	INFO	Listening on port 59406
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806131548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806131556	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.139:80","httpProxy":"136.233.215.139:80","sslProxy":"136.233.215.139:80"}
+1611806131582	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806133052	Marionette	INFO	Stopped listening on port 59406
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806135009	geckodriver	INFO	Listening on 127.0.0.1:59467
+1611806138055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileqyfr4R"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806141425	Marionette	INFO	Listening on port 59475
+1611806141739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806141745	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.105:80","httpProxy":"14.97.2.105:80","sslProxy":"14.97.2.105:80"}
+1611806141768	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806146699	Marionette	INFO	Stopped listening on port 59475
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806148568	geckodriver	INFO	Listening on 127.0.0.1:59532
+1611806151591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile2pdmYc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806154961	Marionette	INFO	Listening on port 59540
+1611806155283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806155289	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"139.59.1.14:8080","httpProxy":"139.59.1.14:8080","sslProxy":"139.59.1.14:8080"}
+1611806155314	Marionette	ERROR	[15] No reply from Marionette:Register
+1611806155546	Marionette	INFO	Stopped listening on port 59540
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806164386	geckodriver	INFO	Listening on 127.0.0.1:59587
+1611806168559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileC3IWZT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806171907	Marionette	INFO	Listening on port 59595
+1611806172263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806172271	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.104:80","httpProxy":"14.97.2.104:80","sslProxy":"14.97.2.104:80"}
+1611806172292	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806180136	Marionette	INFO	Stopped listening on port 59595
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806182597	geckodriver	INFO	Listening on 127.0.0.1:59661
+1611806185621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile5EDU7v"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806188991	Marionette	INFO	Listening on port 59669
+1611806189327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806189333	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"43.224.10.48:6666","httpProxy":"43.224.10.48:6666","sslProxy":"43.224.10.48:6666"}
+1611806189357	Marionette	ERROR	[15] No reply from Marionette:Register
+1611806209890	Marionette	INFO	Stopped listening on port 59669
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 14048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611806213167	geckodriver	INFO	Listening on 127.0.0.1:59716
+1611806216222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilebdAsVP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806219728	Marionette	INFO	Listening on port 59724
+1611806219909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806219917	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.19.129.101:83","httpProxy":"103.19.129.101:83","sslProxy":"103.19.129.101:83"}
+1611806219946	Marionette	ERROR	[15] No reply from Marionette:Register
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611806296867	Marionette	INFO	Stopped listening on port 59724
+1611806523968	geckodriver	INFO	Listening on 127.0.0.1:59926
+1611806526989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofiledMJaZK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806530842	Marionette	INFO	Listening on port 59934
+1611806531254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806531261	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"122.15.211.125:80","httpProxy":"122.15.211.125:80","sslProxy":"122.15.211.125:80"}
+1611806531286	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806539899	Marionette	INFO	Stopped listening on port 59934
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611806543241	geckodriver	INFO	Listening on 127.0.0.1:60022
+1611806546284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileYhKma9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806549809	Marionette	INFO	Listening on port 60030
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806550029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806550039	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.240.77.98:30093","httpProxy":"103.240.77.98:30093","sslProxy":"103.240.77.98:30093"}
+1611806550068	Marionette	ERROR	[15] No reply from Marionette:Register
+1611806614901	Marionette	INFO	Stopped listening on port 60030
+1611806618412	geckodriver	INFO	Listening on 127.0.0.1:60145
+1611806621467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile8drrww"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806625184	Marionette	INFO	Listening on port 60153
+1611806625707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806625715	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.106:80","httpProxy":"14.97.2.106:80","sslProxy":"14.97.2.106:80"}
+1611806625740	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806627877	Marionette	INFO	Stopped listening on port 60153
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806630625	geckodriver	INFO	Listening on 127.0.0.1:60216
+1611806633679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilehjLB63"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806637158	Marionette	INFO	Listening on port 60224
+1611806637402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806637408	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"49.204.79.81:80","httpProxy":"49.204.79.81:80","sslProxy":"49.204.79.81:80"}
+1611806637428	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806638444	Marionette	INFO	Stopped listening on port 60224
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 10324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611806641026	geckodriver	INFO	Listening on 127.0.0.1:60280
+1611806644083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileuIGYbU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806647574	Marionette	INFO	Listening on port 60288
+1611806647786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806647795	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.139:80","httpProxy":"136.233.215.139:80","sslProxy":"136.233.215.139:80"}
+1611806647823	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806649551	Marionette	INFO	Stopped listening on port 60288
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806651486	geckodriver	INFO	Listening on 127.0.0.1:60345
+1611806654534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilePmuBYK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806658947	Marionette	INFO	Listening on port 60354
+1611806659356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806659366	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.105:80","httpProxy":"14.97.2.105:80","sslProxy":"14.97.2.105:80"}
+1611806659393	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806660485	Marionette	INFO	Stopped listening on port 60354
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806665235	geckodriver	INFO	Listening on 127.0.0.1:62110
+1611806668273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileasACuG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806671270	Marionette	INFO	Listening on port 62133
+1611806671402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806671407	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"139.59.1.14:8080","httpProxy":"139.59.1.14:8080","sslProxy":"139.59.1.14:8080"}
+1611806671427	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806671674	Marionette	INFO	Stopped listening on port 62133
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806678941	geckodriver	INFO	Listening on 127.0.0.1:62179
+1611806681993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile4Gu4XW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806685738	Marionette	INFO	Listening on port 62187
+1611806686173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806686180	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.104:80","httpProxy":"14.97.2.104:80","sslProxy":"14.97.2.104:80"}
+1611806686201	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611806689915	Marionette	INFO	Stopped listening on port 62187
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611806691820	geckodriver	INFO	Listening on 127.0.0.1:62256
+1611806694862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileqGicQs"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806698386	Marionette	INFO	Listening on port 62264
+1611806698613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806698625	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.98.206.98:8080","httpProxy":"14.98.206.98:8080","sslProxy":"14.98.206.98:8080"}
+1611806698653	Marionette	ERROR	[15] No reply from Marionette:Register
+1611806741166	Marionette	INFO	Stopped listening on port 62264
+1611806743119	geckodriver	INFO	Listening on 127.0.0.1:62322
+1611806746171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileY0mSHZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806749955	Marionette	INFO	Listening on port 62330
+1611806750429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806750433	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"150.129.55.121:35101","httpProxy":"150.129.55.121:35101","sslProxy":"150.129.55.121:35101"}
+1611806750513	Marionette	ERROR	[15] No reply from Marionette:Register
+1611806783461	Marionette	INFO	Stopped listening on port 62330
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611806786442	geckodriver	INFO	Listening on 127.0.0.1:62572
+1611806789495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilemQy1f7"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611806793147	Marionette	INFO	Listening on port 62592
+1611806793250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611806793259	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.125.130.94:8080","httpProxy":"103.125.130.94:8080","sslProxy":"103.125.130.94:8080"}
+1611806793289	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Listening on 127.0.0.1:62877
+1611807756132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileitRlOO"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611807759419	Marionette	INFO	Listening on port 62888
+1611807759824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611807759832	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.192.31.65:50838","httpProxy":"14.192.31.65:50838","sslProxy":"14.192.31.65:50838"}
+1611807759856	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: services.settings: 
+  security-state/cert-revocations Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1807810677	Marionette	INFO	Listening on port 62992
+1611807811146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611807811154	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"49.204.79.81:80","httpProxy":"49.204.79.81:80","sslProxy":"49.204.79.81:80"}
+1611807811180	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611807812181	Marionette	INFO	Stopped listening on port 62992
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 3696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611807822408	geckodriver	INFO	Listening on 127.0.0.1:63067
+1611807825438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileTsLSag"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611807828753	Marionette	INFO	Listening on port 63077
+1611807829138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611807829145	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.139:80","httpProxy":"136.233.215.139:80","sslProxy":"136.233.215.139:80"}
+1611807829168	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611807831079	Marionette	INFO	Stopped listening on port 63077
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 9952, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611807834340	geckodriver	INFO	Listening on 127.0.0.1:63138
+1611807837370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileMaqmKl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611807840753	Marionette	INFO	Listening on port 63150
+1611807841067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611807841074	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"210.212.253.226:8080","httpProxy":"210.212.253.226:8080","sslProxy":"210.212.253.226:8080"}
+1611807841099	Marionette	ERROR	[15] No reply from Marionette:Register
+1611807841812	Marionette	INFO	Stopped listening on port 63150
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 9692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611807843785	geckodriver	INFO	Listening on 127.0.0.1:63186
+1611807846815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile12BZnR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611807850077	Marionette	INFO	Listening on port 63194
+1611807850516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611807850523	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.137:80","httpProxy":"136.233.215.137:80","sslProxy":"136.233.215.137:80"}
+1611807850548	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611807853195	Marionette	INFO	Stopped listening on port 63194
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611807855670	geckodriver	INFO	Listening on 127.0.0.1:63256
+1611807858694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileKZKSX5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611807862056	Marionette	INFO	Listening on port 63264
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611807862375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611807862382	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.19.128.81:83","httpProxy":"103.19.128.81:83","sslProxy":"103.19.128.81:83"}
+1611807862407	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile7TvYeQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808354842	Marionette	INFO	Listening on port 63515
+1611808355154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808355162	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"117.252.222.29:23500","httpProxy":"117.252.222.29:23500","sslProxy":"117.252.222.29:23500"}
+1611808355190	Marionette	ERROR	[15] No reply from Marionette:Register
+1611808397675	Marionette	INFO	Stopped listening on port 63515
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 1448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611808399567	geckodriver	INFO	Listening on 127.0.0.1:63574
+1611808402575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilel4lgA2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808406057	Marionette	INFO	Listening on port 63582
+1611808406284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808406292	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.241.227.107:6666","httpProxy":"103.241.227.107:6666","sslProxy":"103.241.227.107:6666"}
+1611808406316	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofiledUerzQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808459297	Marionette	INFO	Listening on port 63673
+1611808459600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808459608	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"49.204.79.81:80","httpProxy":"49.204.79.81:80","sslProxy":"49.204.79.81:80"}
+1611808459631	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611808460653	Marionette	INFO	Stopped listening on port 63673
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 11132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611808463150	geckodriver	INFO	Listening on 127.0.0.1:63731
+1611808466189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile3DJwhK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808469541	Marionette	INFO	Listening on port 63741
+1611808469875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808469881	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.139:80","httpProxy":"136.233.215.139:80","sslProxy":"136.233.215.139:80"}
+1611808469908	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611808472134	Marionette	INFO	Stopped listening on port 63741
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611808474078	geckodriver	INFO	Listening on 127.0.0.1:63820
+1611808477118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileaSqzWT"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808480694	Marionette	INFO	Listening on port 63831
+1611808480821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808480832	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.105:80","httpProxy":"14.97.2.105:80","sslProxy":"14.97.2.105:80"}
+1611808480858	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611808482325	Marionette	INFO	Stopped listening on port 63831
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611808484892	geckodriver	INFO	Listening on 127.0.0.1:63901
+1611808487931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileZa0uqs"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808491348	Marionette	INFO	Listening on port 63913
+1611808491635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808491641	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"139.59.1.14:8080","httpProxy":"139.59.1.14:8080","sslProxy":"139.59.1.14:8080"}
+1611808491664	Marionette	ERROR	[15] No reply from Marionette:Register
+1611808491940	Marionette	INFO	Stopped listening on port 63913
+1611808500812	geckodriver	INFO	Listening on 127.0.0.1:63969
+1611808503858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilexh12eB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808507318	Marionette	INFO	Listening on port 63977
+1611808507561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808507567	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.97.2.104:80","httpProxy":"14.97.2.104:80","sslProxy":"14.97.2.104:80"}
+1611808507591	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611808508873	Marionette	INFO	Stopped listening on port 63977
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 7540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611808511456	geckodriver	INFO	Listening on 127.0.0.1:64038
+1611808514486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileX1RvFv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808517760	Marionette	INFO	Listening on port 64047
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808518169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808518176	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"150.129.207.72:30093","httpProxy":"150.129.207.72:30093","sslProxy":"150.129.207.72:30093"}
+1611808518202	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: https://internshala.com/static/cdn/4.4.1/js/bootstrap.min.js, line 6: TypeError: Bootstrap's JavaScript requires jQuery. jQuery must be included before Bootstrap's JavaScript.
+1611808818260	Marionette	INFO	Stopped listening on port 64047
+1611808827834	geckodriver	INFO	Listening on 127.0.0.1:64162
+1611808830858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilexu9Rgm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808834148	Marionette	INFO	Listening on port 64170
+1611808834540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808834546	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"122.15.211.125:80","httpProxy":"122.15.211.125:80","sslProxy":"122.15.211.125:80"}
+1611808834569	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611808836700	Marionette	INFO	Stopped listening on port 64170
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611808839196	geckodriver	INFO	Listening on 127.0.0.1:64227
+1611808842242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofile4gKSEP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808845558	Marionette	INFO	Listening on port 64235
+1611808845931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808845938	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"136.233.215.137:80","httpProxy":"136.233.215.137:80","sslProxy":"136.233.215.137:80"}
+1611808845961	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: chrome://browser/content/aboutNetError.js, line 374: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1611808847762	Marionette	INFO	Stopped listening on port 64235
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611808849624	geckodriver	INFO	Listening on 127.0.0.1:64296
+1611808852654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileVmEJF9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808856097	Marionette	INFO	Listening on port 64304
+1611808856356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808856365	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"15.207.33.236:80","httpProxy":"15.207.33.236:80","sslProxy":"15.207.33.236:80"}
+1611808856389	Marionette	ERROR	[15] No reply from Marionette:Register
+1611808868884	Marionette	INFO	Stopped listening on port 64304
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611808872106	geckodriver	INFO	Listening on 127.0.0.1:64347
+1611808875145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileiib1aa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808878451	Marionette	INFO	Listening on port 64355
+1611808878831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808878838	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.42.195.70:53281","httpProxy":"103.42.195.70:53281","sslProxy":"103.42.195.70:53281"}
+1611808878864	Marionette	ERROR	[15] No reply from Marionette:Register
+1611808921379	Marionette	INFO	Stopped listening on port 64355
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 10536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611808923305	geckodriver	INFO	Listening on 127.0.0.1:64420
+1611808926328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileAr2EOM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808929805	Marionette	INFO	Listening on port 64428
+1611808930050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808930057	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"1.186.242.12:39098","httpProxy":"1.186.242.12:39098","sslProxy":"1.186.242.12:39098"}
+1611808930082	Marionette	ERROR	[15] No reply from Marionette:Register
+1611809457245	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+r("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611808987479	Marionette	INFO	Listening on port 64527
+1611808987773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611808987779	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"183.87.153.98:49602","httpProxy":"183.87.153.98:49602","sslProxy":"183.87.153.98:49602"}
+1611808987804	Marionette	ERROR	[15] No reply from Marionette:Register
+1611809030296	Marionette	INFO	Stopped listening on port 64527
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 6288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611809032813	geckodriver	INFO	Listening on 127.0.0.1:64600
+1611809035844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileWjmqsV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611809039169	Marionette	INFO	Listening on port 64608
+1611809039533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611809039539	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"27.116.51.115:8080","httpProxy":"27.116.51.115:8080","sslProxy":"27.116.51.115:8080"}
+1611809039565	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: services.settings: 
+  pinning/pins Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611809205594	Marionette	INFO	Listening on port 64735
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611809205934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611809205941	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.19.129.2:83","httpProxy":"103.19.129.2:83","sslProxy":"103.19.129.2:83"}
+1611809205969	Marionette	ERROR	[15] No reply from Marionette:Register
+1611809733183	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+te" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofilecyGhwl"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611809319181	Marionette	INFO	Listening on port 64863
+1611809319342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611809319349	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"14.192.31.65:50838","httpProxy":"14.192.31.65:50838","sslProxy":"14.192.31.65:50838"}
+1611809319376	Marionette	ERROR	[15] No reply from Marionette:Register
+1611809846586	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+Exiting due to channel error.
+Exiting due to channel error.
+adless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileM1ASzq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611809401148	Marionette	INFO	Listening on port 64995
+1611809401267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611809401275	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.46.233.214:81","httpProxy":"103.46.233.214:81","sslProxy":"103.46.233.214:81"}
+1611809401302	Marionette	ERROR	[15] No reply from Marionette:Register
+1611809442397	Marionette	INFO	Stopped listening on port 64995
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611809444494	geckodriver	INFO	Listening on 127.0.0.1:65069
+1611809447540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileDrGeHW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611809451093	Marionette	INFO	Listening on port 65078
+1611809451265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611809451274	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"203.192.199.114:8080","httpProxy":"203.192.199.114:8080","sslProxy":"203.192.199.114:8080"}
+1611809451305	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+11809572789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileRPrha8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611809576511	Marionette	INFO	Listening on port 65212
+1611809576994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611809577001	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"103.84.70.70:82","httpProxy":"103.84.70.70:82","sslProxy":"103.84.70.70:82"}
+1611809577025	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+11809756929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\AMANNA~1\\AppData\\Local\\Temp\\rust_mozprofileEomeqH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611809760647	Marionette	INFO	Listening on port 65381
+1611809761145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611809761151	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"117.252.222.29:23500","httpProxy":"117.252.222.29:23500","sslProxy":"117.252.222.29:23500"}
+1611809761180	Marionette	ERROR	[15] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

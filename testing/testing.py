@@ -1,22 +1,20 @@
-from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
+from multiprocessing import Process
+import time
 
 
-req_proxy = RequestProxy() #you may get different number of proxy when  you run this at each time
-proxies = req_proxy.get_proxy_list() #this will create proxy list
-ind = []
-proxyCount = 0
-for proxy in proxies:
-    if(proxy.country == 'India'):
-        proxyCount += 1
-        ind.append(proxy)
+def something(str):
+    print(str)
+    i=0
+    while True:
+        i +=1
+        print(i)
+        time.sleep(1)
 
 
-def yield_proxy(ind):
-    for i in ind:
-        yield i.get_address()
+if __name__ == "__main__":
+    action_process = Process(target=something,name='Something Process',args=('Hello',))
 
-# for j in yield_proxy(ind):
-#     print(j)
-
-print(proxyCount)
-
+    action_process.start()
+    action_process.join(timeout=5)
+    action_process.terminate()
+    print("Bitch")
